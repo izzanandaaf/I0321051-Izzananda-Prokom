@@ -1,0 +1,6 @@
+Nama: Ijan
+Umur: 18
+Alamat: Taman Kebalen Indah
+Nama: Adimas
+Umur: 18
+Alamat: Bekasi
